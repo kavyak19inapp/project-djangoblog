@@ -1,10 +1,10 @@
-#PROJECT DJANGO-BLOG
+PROJECT DJANGO-BLOG
 
 A simple application in which people can post blogs.It has applications in which people can add post,edit there post and delete their post.
 It has application where users can have a small chat facility also.
 
 
-#REQUIREMENTS
+REQUIREMENTS
 
 Here is a list of requirements you need to run this project
 
@@ -27,7 +27,7 @@ pip3 install channels_redis
 **note Make sure that you have python 3 installed and install channels for chat activation
 
 
-#RUNNING THE PROJECT 
+RUNNING THE PROJECT 
 
 While starting the server you will start with login page where you can login or if not you can register by clicking on the link button for registeringand this will lead to a page where you can register your name and confirm your password.Next page is about creating a post with text and title in it.
 You can edit,delete and chat by clicking on it.
